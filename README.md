@@ -85,26 +85,6 @@ Product intelligence system using OpenAI's CLIP model for multimodal search. Sup
 
 Hackathon project built at Hack Malenadu — a sentiment analysis-based detection system for real-time text classification.
 
----
-
-## 🏅 Certifications
-
-- 🤖 **GEN AI Camp** — AlgoUniversity *(backed by Y Combinator, mentored by Microsoft Engineer)*
-  Covered: Generative AI · Multimodal AI Systems · NLP
-- 🌐 Web Development — HTML, CSS, JavaScript
-- 📐 Linear Algebra for ML
-- 🧩 Data Structures & Algorithms
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibadkxan&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibadkxan&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
 
 <p align="center">
   <i>Information Science · 3rd Year · Open to SWE & Backend opportunities · Campus Placement 2026</i>

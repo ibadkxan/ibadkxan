@@ -85,7 +85,3 @@ Product intelligence system using OpenAI's CLIP model for multimodal search. Sup
 
 Hackathon project built at Hack Malenadu — a sentiment analysis-based detection system for real-time text classification.
 
-
-<p align="center">
-  <i>Information Science · 3rd Year · Open to SWE & Backend opportunities · Campus Placement 2026</i>
-</p>

@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mohammed Ibaad 👋</h1>
 
 <p align="center">
-  <b>Information Science Undergrad (3rd Year) · Backend Developer · Full-Stack Builder</b><br/>
-  📍 Belagavi, Karnataka &nbsp;|&nbsp; 🎓 B.E. Information Science
+  <b>Information Science Undergrad (3rd Year) The National Institute of Engineering· Backend Developer · Full-Stack Builder</b><br/>
+  📍 Mysore, Karnataka &nbsp;|&nbsp; 🎓 B.E. Information Science
 </p>
 
 <p align="center">
